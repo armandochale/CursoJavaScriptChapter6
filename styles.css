@@ -1,0 +1,11 @@
+.first{
+    padding: 10px;
+    color: pink;
+    border: 1px dotted red;
+}
+
+.second{
+    padding: 10px;
+    color: orange;
+    background-color: black;
+}
